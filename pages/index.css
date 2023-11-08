@@ -126,11 +126,6 @@
   width: 315px;
 }
 
-.recipes__iframe {
-  height: 560px;
-  width: 315px;
-}
-
 .recipes__videos {
   display: flex;
   gap: 40px;
