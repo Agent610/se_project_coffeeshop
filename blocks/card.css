@@ -1,7 +1,5 @@
 .card {
   width: 540px;
-  gap: 100px;
-  margin-bottom: 100px;
 }
 
 .card__list {
@@ -28,7 +26,6 @@
 }
 
 .card__list-item {
-  margin-bottom: 16px;
   display: flex;
   align-items: baseline;
 }

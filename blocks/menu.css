@@ -6,7 +6,7 @@
 
 .menu__title {
   text-align: center;
-  margin: 0 0 24px;
+  margin: 100px auto 24px;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
@@ -17,7 +17,7 @@
 
 .menu__subtitle {
   text-align: center;
-  margin: 0 0 100px;
+  margin: 24px auto 100px;
   font-family: Noto serif;
   font-style: normal;
   font-weight: normal;
