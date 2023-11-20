@@ -1,7 +1,7 @@
 .footer {
   box-sizing: border-box;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-  padding: 80px 100px 60px 80px;
+  padding: 60px 80px;
   color: #fff;
 }
 
@@ -32,7 +32,7 @@
 
 .footer__social-heading {
   margin: 0 0 20px;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .footer__social-link {
-  font-family: inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -61,7 +61,7 @@
 
 .footer__copyright {
   margin: 108px 0 0px;
-  font-family: inter;
+  font-family: "Inter" Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
